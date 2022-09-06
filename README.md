@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rifkyzena1488
+
 - 👀 I’m interested in webdev, web/app design, gamedev, and creative writing
 - 🌱 I’m currently learning web programming and computer graphics
-- 💞️ I’m looking to collaborate on NOTHING CURRENTLY
 - 📫 How to reach me --> Twitter: @jamespriori
 
 <!---
