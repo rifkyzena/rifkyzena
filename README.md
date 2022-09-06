@@ -1,5 +1,5 @@
 
-- 👀 I’m interested in webdev, web/app design, gamedev, and creative writing
+- 👀 I’m interested in webdev, web/app design, gamedev, writing fiction, and pixel art
 - 🌱 I’m currently learning web programming and computer graphics
 - 📫 How to reach me --> Twitter: @jamespriori
 
