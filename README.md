@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in webdev, web/app design, gamedev, writing fiction, and pixel art
-- 🌱 I’m currently learning web programming and computer graphics
+- 🌱 I’m currently learning web programming and computer graphics in Binus University, Indonesia
 - 📫 How to reach me --> Twitter: @jamespriori
 
 <!---
