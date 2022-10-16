@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in webdev, web/app design, 2D gamedev, creative writing, and pixel art
-- 🌱 I’m currently learning web programming (Laravel, MySQL, PHP) and computer graphics (three.js) in Binus University, Indonesia
+- 🌱 I’m currently learning **Web Programming** (Laravel, MySQL, PHP) and **Computer Graphics** (three.js) in Binus University, Indonesia
 - 📫 How to reach me --> Twitter: @jamespriori || LinkedIn: https://www.linkedin.com/in/muhammad-rifky-zena-y-0b6883138/
 
 <!---
