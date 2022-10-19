@@ -1,7 +1,38 @@
+# "When the music plays, the sun shall stay."
 
 - 👀 I’m interested in webdev, web/app design, 2D gamedev, creative writing, and pixel art
-- 🌱 I’m currently learning **Web Programming** (Laravel, MySQL, PHP) and **Computer Graphics** (three.js) in Binus University, Indonesia
+- 🌱 For this semester, I’m currently learning **Web Programming** (Laravel, MySQL, PHP) and **Computer Graphics** (three.js)
 - 📫 How to reach me --> Discord: jamespriori#9562
+
+## General Skills
+🌱 **Frontend**
+- HTML5
+- CSS3
+- Javascript
+
+🪨 **Backend**
+- Laravel
+- PHP
+
+🛢️ **Database**
+- MySQL
+
+🛠️ **Daily tools**
+- VSCode
+- XAMPP
+
+🤷 **Some experiences**
+- Figma
+- Android Studio
+- Eclipse for Java
+- Tableau
+- Aseprite
+- draw.io
+
+
+[![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyzena&theme=tokyonight)
 
 <!---
 rifkyzena1488/rifkyzena1488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
