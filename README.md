@@ -21,13 +21,14 @@
 - VSCode
 - XAMPP
 
-🤷 **Some experiences**
+🤷 **Some other experiences**
 - Figma
 - Android Studio
 - Eclipse for Java
 - Tableau
 - Aseprite
 - draw.io
+- three.js
 
 
 [![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
