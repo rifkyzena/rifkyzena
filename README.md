@@ -1,6 +1,6 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in webdev, web/app design, 2D gamedev, creative writing, and pixel art
+- 👀 I’m interested in webdev, web/app design, AI, NLP, and chatbots
 - 🌱 For this semester, I’m currently learning **Web Programming** (Laravel, MySQL, PHP) and **Computer Graphics** (three.js)
 - 📫 How to reach me --> Discord: jamespriori#9562
 
@@ -26,7 +26,6 @@
 - Android Studio
 - Eclipse for Java
 - Tableau
-- Aseprite
 - draw.io
 - three.js
 
