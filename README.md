@@ -1,7 +1,7 @@
 # "When the music plays, the sun shall stay."
 
 - 👀 I’m interested in webdev, web/app design, AI, NLP, and chatbots
-- 🌱 For this semester, I’m currently interning as **Quality Assurance** from 13/3/2023 to 13/9/2023
+- 🌱 For this semester, I’m currently interning as **Quality Assurance / IT Tester ** from 13/3/2023 to 13/9/2023
 - 📫 How to reach me --> Discord: jamespriori#9562
 
 ## General Skills
