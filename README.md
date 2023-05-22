@@ -22,10 +22,12 @@
 - XAMPP
 
 🤷 **Some other experiences**
+- Aseprite
 - Figma
 - Android Studio
 - Eclipse for Java
 - Tableau
+- Unity
 - draw.io
 - three.js
 
