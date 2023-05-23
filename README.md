@@ -1,6 +1,6 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in web development, chatbots, and indie game development.
+- 👀 I’m interested in multimedia, web development, and indie game development.
 - 🌱 For this semester, I’m currently interning as **QA Tester / Technical Writer** from 13/3/2023 to 13/9/2023
 - 📫 How to reach me --> Discord: jamespriori#9562
 
