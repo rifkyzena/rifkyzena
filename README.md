@@ -14,16 +14,17 @@
 - CSS3
 - Javascript
 
-🪨 **Backend**
+⚙️**Backend**
 - Laravel
 - PHP
 
 🛢️ **Database**
-- MySQL
+- HeidiSQL
 
 🛠️ **Daily tools**
 - VSCode
 - XAMPP
+- Unity & Unity Hub
 
 🤷 **Some other experiences**
 - Aseprite
