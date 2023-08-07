@@ -1,10 +1,14 @@
 # "When the music plays, the sun shall stay."
 
 - 👀 I’m interested in multimedia, web development, and indie game development.
-- 🌱 For this semester, I’m currently interning as **QA Tester / Technical Writer** from 13/3/2023 to 13/9/2023
+- 🌱 For this semester, I’m currently interning as **QA Tester / Technical Writer**
 - 📫 How to reach me --> Discord: jamespriori#9562
 
 ## General Skills
+🎮 **Game Development**
+- Unity 2D
+- Unity 2D
+
 🌱 **Frontend**
 - HTML5
 - CSS3
@@ -27,7 +31,6 @@
 - Android Studio
 - Eclipse for Java
 - Tableau
-- Unity
 - draw.io
 - three.js
 
