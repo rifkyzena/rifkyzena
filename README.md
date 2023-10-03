@@ -24,7 +24,8 @@
 🛠️ **Daily tools**
 - VSCode
 - XAMPP
-- Unity & Unity Hub
+- Unity Editor & Unity Hub
+- MobaXterm
 
 🤷 **Some other experiences**
 - Aseprite
