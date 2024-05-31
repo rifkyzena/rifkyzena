@@ -7,7 +7,6 @@
 ## General Skills
 🎮 **Game Development**
 - Unity 2D
-- Unity 3D
 
 🌱 **Frontend**
 - HTML5
