@@ -1,7 +1,7 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in multimedia, web development, and indie game development.
-- 🌱 For this semester, I’m currently interning as **QA Tester / Technical Writer**
+- 👀 I’m interested in Software Testing, Web Development, and Indie Game Development.
+- 🌱 I have finished my computer science studies and will be graduating on November 2024
 - 📫 How to reach me --> Discord: jamespriori#9562
 
 ## General Skills
@@ -21,6 +21,7 @@
 - HeidiSQL
 
 🛠️ **Daily tools**
+- Microsoft Office Suite
 - VSCode
 - XAMPP
 - Unity Editor & Unity Hub
@@ -29,11 +30,7 @@
 🤷 **Some other experiences**
 - Aseprite
 - Figma
-- Android Studio
-- Eclipse for Java
-- Tableau
 - draw.io
-- three.js
 
 
 [![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
