@@ -4,6 +4,8 @@
 - 🌱 I have finished my computer science studies and will be graduating on November 2024
 - 📫 How to reach me --> Discord: jamespriori#9562
 
+**Portfolio Highlights:** 
+
 ## General Skills
 🎮 **Game Development**
 - Unity 2D
