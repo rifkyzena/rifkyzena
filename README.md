@@ -1,6 +1,6 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in Software Testing, Web Development, and Indie Game Development.
+- 👀 I’m interested in Software Testing, Indie Game Development, and Narrative Design
 - 🌱 I have finished my computer science studies and will be graduating on November 2024
 - 📫 How to reach me --> Discord: jamespriori#9562
 
@@ -8,32 +8,17 @@
 
 ## General Skills
 🎮 **Game Development**
+- C#
 - Unity 2D
-
-🌱 **Frontend**
-- HTML5
-- CSS3
-- Javascript
-
-⚙️**Backend**
-- Laravel
-- PHP
-
-🛢️ **Database**
-- HeidiSQL
 
 🛠️ **Daily tools**
 - Microsoft Office Suite
-- VSCode
-- XAMPP
+- Visual Studio Code
+- Visual Studio Community
 - Unity Editor & Unity Hub
-- MobaXterm
 
 🤷 **Some other experiences**
 - Aseprite
-- Figma
-- draw.io
-
 
 [![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
 
