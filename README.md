@@ -2,20 +2,37 @@
 
 - 👀 I’m interested in Software Testing, Indie Game Development, and Narrative Design
 - 🌱 I have finished my computer science studies and will be graduating on November 2024
-- 📫 How to reach me --> Discord: jamespriori#9562
+- 📫 How to reach me --> Discord: bloody_caltrop
 
 **Portfolio Highlights:** https://drive.google.com/file/d/1b3wr1_RBD8TZ1xoH0gsZTnvfpqzr9Swh/view?usp=drive_link
 
 ## General Skills
 🎮 **Game Development**
 - C#
-- Unity 2D
+- Unity
+
+🌱 **Frontend**
+Javascript
+HTML5
+CSS3
+React
+Bootstrap
+
+🪨 **Backend**
+Node.js
+Express
+
+🛢️ **Database**
+RDBMS (MySQL, MSSQL, PostgresQL)
 
 🛠️ **Daily tools**
 - Microsoft Office Suite
 - Visual Studio Code
 - Visual Studio Community
 - Unity Editor & Unity Hub
+- Postman
+- Selenium
+- Playwright
 
 🤷 **Some other experiences**
 - Aseprite
