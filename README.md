@@ -1,32 +1,34 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in Web Development, Data Analytics, Software Testing, and Indie Game Development
+- 👀 I’m interested in Data Analytics, Software Testing, and Indie Game Development
 - 🌱 I have finished my computer science studies and will be graduating on November 2024
 - 📫 How to reach me --> Discord: bloody_caltrop
 
 ## General Skills
-🎮 **Game Development**
+🎮 **Programming Language**
+- Python
 - C#
-- Unity
-- Godot
+- Java
+- JavaScript
 
-🌱 **Frontend**
-- Javascript
-- HTML5
-- CSS3
-- React
+🛠️ **Frameworks**
+- Tensorflow
+- Flask
 
-🪨 **Backend**
-- Node.js
+🪨 **Tools**
+- Postman
+- Pandas
+- Matplotlib
+- Seaborn
+- Jira
+- Selenium
+- Playwright
+- JMeter
+- Excel
+- Tableau
 
 🛢️ **Database**
 - SQL
-
-🛠️ **Daily tools**
-- Microsoft Office Suite
-- Visual Studio Code
-- Visual Studio Community
-- Unity Editor & Unity Hub
 
 [![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
 
