@@ -1,6 +1,6 @@
 # "When the music plays, the sun shall stay."
 
-- 👀 I’m interested in Data Analytics, Software Testing, and Indie Game Development
+- 👀 I’m interested in Data Analytics, Software Testing, Web Development, and Indie Game Development
 - 🌱 I have finished my computer science studies and will be graduating on November 2024
 - 📫 How to reach me --> Discord: bloody_caltrop
 
@@ -10,8 +10,12 @@
 - C#
 - Java
 - JavaScript
+- PHP
 
 🛠️ **Frameworks**
+- Laravel
+- React
+- Node.js
 - Tensorflow
 - Flask
 
